@@ -18,7 +18,7 @@ With a proven track record of enhancing security postures in highly regulated in
 
 ### Strong Proficiencies
 - **Linux Systems:** 9/10 - Deep command-line expertise, system administration
-- **Networking:** CCNA-level knowledge, TCP/IP, VPN, routing concepts
+- **Networking:** CCNA-level knowledge, TCP/IP, switching, routing concepts
 
 ### Currently Mastering
 - **AWS:** Solutions Architect track - VPC, EC2, S3, RDS, Lambda, IAM
