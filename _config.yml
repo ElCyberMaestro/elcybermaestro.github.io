@@ -1,0 +1,17 @@
+title: Luis Martinez - Cloud Infrastructure
+description: AWS Solutions Architect | Terraform | Cloud Infrastructure
+theme: jekyll-theme-minimal
+
+# Optional settings
+show_downloads: false
+
+# Replace these with your actual information
+github_username: ElCyberMaestro
+linkedin_username: luismartineztx
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - blog.md
